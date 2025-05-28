@@ -8,5 +8,4 @@
 
 ## Overview
 
-- Report for the Deep Learning Challenge
-- 
+- Report for the Deep Learning Challenge [Report](./report.md)
